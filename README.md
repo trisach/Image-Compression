@@ -9,6 +9,7 @@ Simple image compression using K-Means Clustering Algorithm
 
   
   Compressed Image : 
+  
   File Size after Compression : 11kb
 
   
